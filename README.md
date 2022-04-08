@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @faam05
+- 👋 Hi, I’m Mohammad Fadhil Fadholi AKA faam05
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning Laravel
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me https://www.linkedin.com/in/mohammad-fadhil-fadholi-2a5599195/
 
 <p align="left">
 <a href="https://github.com/faam05">
