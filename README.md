@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mohammad Fadhil Fadholi AKA faam05
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning Laravel
+- 🌱 I’m currently learning Laravel, React.js, and Next.js 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me https://www.linkedin.com/in/mohammad-fadhil-fadholi-2a5599195/
 
